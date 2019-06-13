@@ -30,4 +30,5 @@ end
 def pizza_party
   puts cheese
   puts pepperoni
+  return pepperoni
 end
