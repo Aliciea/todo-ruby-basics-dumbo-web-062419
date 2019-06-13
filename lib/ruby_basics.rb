@@ -28,5 +28,5 @@ return "expert"
 end
 
 def pizza_party
-  return pizza_party
+  
 end
