@@ -28,6 +28,5 @@ return "expert"
 end
 
 def pizza_party
-return "cheese"
 return "peperoni"
 end
