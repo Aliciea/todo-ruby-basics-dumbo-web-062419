@@ -6,8 +6,8 @@ def assign_variable(value)
  puts value = "Bob"
 end
 
-def argue
-  return argue
+def argue(phrase)
+  return phrase = ""
 end
 
 def greeting
