@@ -15,7 +15,7 @@ def argue(phrase)
   
 end
 
-def greeting
+def greeting(name="Hi there")
 
 end
 
