@@ -10,7 +10,8 @@ def assign_variable(value)
 end
 
 def argue(phrase)
-  return phrase = `I'm right and you are wrong!`
+  puts phrase = `I'm right and you are wrong!`
+  
 end
 
 def greeting
