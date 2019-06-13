@@ -3,7 +3,7 @@ puts num1/num2
 end
 
 def assign_variable(value)
-  return value
+  puts value
 end
 
 def argue
